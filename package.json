@@ -1,6 +1,7 @@
 {
 	"author": "Alfredo Suarez",
 	"description": "A project to master nodejs",
+  "keywords": [ "nodejs", "tutorial", "web" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
